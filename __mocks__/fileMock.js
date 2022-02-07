@@ -1,0 +1,1 @@
+module.exportsm = "test-file";
